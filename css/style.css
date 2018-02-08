@@ -1,0 +1,85 @@
+body {
+  background-color: #AEA8D3;
+  color: #333333;
+  font-size: 18px;
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+a:hover {
+  color: #999999;
+}
+
+figcaption {
+  font-size: .8em;
+  line-height: 1em;
+}
+
+.author {
+  line-height: 1.5em;
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 2.2em;
+}
+
+h3 {
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
+
+p {
+  line-height: 1.2em;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
